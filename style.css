@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+}
+li{
+    border: 1px solid black;
+    border-radius: 30px;
+    flex: 0 0 5%;
+    margin: 1px;
+    padding: 1px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}

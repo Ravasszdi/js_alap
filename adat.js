@@ -11,4 +11,16 @@ export const adatLista=[
         nev:"Kandisz Nóra",
         atlag:4.9
     },
+    {
+        nev:"Hát Iszák",
+        atlag:2.0
+    },
+    {
+        nev:"Hunor Holmes",
+        atlag:6.0
+    },
+    {
+        nev:"Vörös Csaba",
+        atlag:4.2
+    },
 ]
