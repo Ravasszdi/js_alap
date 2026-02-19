@@ -19,7 +19,7 @@ Ha nem tudod kitalálni, hoyg lesznek meg az egész számok, kérdezd meg az AI-
 
 2. Írj függvényt, aminek bemeneti paramétere az előbbi függvéyn által visszaadott lista (a véletlen számokkal). A számokat írd ki divekbe az aside elembe. (annyi div legyen, ahány eleme van a listának. ) A diveket formázd css-sel, legyenek kör alakúak!
 
-### 3. feladat
+## 3. feladat
 
 A adat.js fájlban találod az objektumlistát. Ezt már beimportáltam az index.js fájlba, tehát ott már használható. 
 Írj függvényt, ami paraméterként kapja ezt a listát, és megjeleníti az adatokat egy táblázatban, az article elemben. Formázd is a táblázatot!
